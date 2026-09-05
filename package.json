@@ -1,0 +1,11 @@
+{
+  "name": "shareholder-benefit-search",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/server.js",
+    "build": "node scripts/build.js",
+    "test": "node --test"
+  }
+}
